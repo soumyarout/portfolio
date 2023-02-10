@@ -1,7 +1,7 @@
 {
 	"intro": {
-		"start": "const Andrew = ( name, passion ) =>",
-		"end": "Hello, my name is",
+		"start": "const Trainomate = ( name, passion ) =>",
+		"end": "Hello, We are ",
 		"speed": 60,
 		"deletionSpeed": 80,
 		"wrapper": "h2",
@@ -11,15 +11,15 @@
 	},
 
 	"header": {
-		"name": "Andrew Nelson.",
-		"usp": "I design and build meaningful experiences."
+		"name": "Trainomate",
+		"usp": "Excel in Technology and Tranform you workforce"
 	},
 
-	"paragraph": "I am a digital polymath — a constantly evolving digital creator driven by a passion for lifelong learning and the desire to leave a lasting impact.",
+	"paragraph": "We provide top-notch quality IT Corporate training and consulting on wide range of technologies to make you fully experienced with new technological aspects and solutions.",
 
 	"buttons": {
 		"primary": {
-			"title": "Contact Me",
+			"title": "Get in touch",
 			"url": "",
 			"leaveSite": false
 		},
