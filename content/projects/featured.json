@@ -24,7 +24,7 @@
 			{ "key": "size", 		"value": "large" }
 		],
 		"images": [
-			{ "key": "portfolio", "hover": "left", "h": "900", "w": "700",  "url": "/img/svc-2.jpg" }
+			{ "key": "portfolio", "hover": "left", "h": "800", "w": "556",  "url": "/img/svc-2.jpg" }
 		],
 		"stack": [
 			
