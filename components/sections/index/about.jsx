@@ -30,7 +30,7 @@ export default function About() {
 				<SectionTitle
 					title="About Us"
 					preTitle="Synopsis"
-					subTitle="Boasting over 260 top-notch technical experts and consultants, our team encompasses a vast array of skills, including Cloud, AI/ML, Micro Service, DevOps, Systems Design, Full Stack Development, Product Design and Branding. We are a multifaceted group of digital professionals, renowned for our expertise and experience."
+					subTitle="Boasting over 265+ top-notch technical experts and consultants, our team encompasses a vast array of skills, including Cloud, AI/ML, Micro Service, DevOps, Systems Design, Full Stack Development, Product Design and Branding. We are a multifaceted group of digital professionals, renowned for our expertise and experience."	
 				/>
 				
 			</Container>
